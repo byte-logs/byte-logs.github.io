@@ -1,8 +1,8 @@
 <header class="site-header">
   <div class="wrap">
     <div style="float:left; margin-top:10px; margin-right:10px;">
-      <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-        <img src="{{ "/assets/rssicon.svg" | prepend: site.baseurl }}" width="40">
+      <a href="{{ "/" | prepend: site.baseurl }}">
+        <img src="{{ "/assets/astro-pup.png" | prepend: site.baseurl }}" width="40">
       </a>
   
     </div>
@@ -27,6 +27,7 @@
             <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+        <a class="page-link" href="/feed.xml">rss</a>
       </div>
     </nav>
   </div>

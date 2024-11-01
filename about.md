@@ -4,20 +4,10 @@ title: About
 permalink: /about/
 includelink: true
 ---
-Hi there! I'm a **Research Analyst** at **Zoho Corporation Pvt Ltd** working on **AI and Machine Learning**. Since joining in January 2022, I’ve been into research, reading papers, and slowly getting into building models. I aim to write primarily on science, math and with occasional posts on philosophy. 
+Hello Earthling! I am a Intern/Trainee at [Zoho Corporation Pvt. Ltd.](www.zohocorp.com). I primarily do research on and implement Anomaly Detection Models (primarily unsupervised).
 
-### My Interests
-I have a strong passion for the intersection of **biology and artificial intelligence**, My current focus is on **LLMs** and **LLM agents**. My goal is to create models that enhance core capabilities like **memory, planning, reasoning, and tool use** at work
-
-### Skills and Goals
-**Skills:**  Python & C; HTML & CSS<br>
-I'm trying to learn **hardware, software, and operations** as well as some basic **physics, math, and biology**. My aim is to move seamlessly across these fields, conducting research and building practical applications.
-
-- **Hackathons:** (Oct '24 - Dec '24) Currently working on the UC Berkeley AI Agents Hackathon (Fundamentals track).
-
-### Beyond Work
-In my downtime, you might find me playing(trying to play!) **chess**, **reading books**, or catching a good **cricket** match.
+I fell in love with coding 5 years ago, and I haven't looked back since then. 
 
 ---
 
-Thanks for stopping by, and feel free to connect.
+Thank you for landing here! I hope you like this planet!

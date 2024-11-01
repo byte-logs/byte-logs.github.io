@@ -1,1 +1,1 @@
-my jekyll blog https://quantum-sage.github.io/blog/
+my jekyll blog https://byte-logs.github.io/
