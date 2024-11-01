@@ -1,9 +1,9 @@
 # Site settings
-title: Siva's blog
+title: Mark's blog
 email: 
-description: "My Experiments"
-url: "https://quantum-sage.github.io"
-baseurl: "/blog"
+description: "Rants from a galaxy far far away"
+url: "https://byte-logs.github.io"
+baseurl: "/"
 twitter_username: meredilettante
 github_username:  quantum-sage
 
