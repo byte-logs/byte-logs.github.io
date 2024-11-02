@@ -1,13 +1,13 @@
 # Site settings
-title: Mark's blog
+title: Byte Logs
 email: 
 description: "Rants from a galaxy far far away"
-url: "https://byte-logs.github.io"
-baseurl: "/"
+url: ""
+baseurl: ""
 twitter_username: mark_madhukar_
 github_username:  programmer2215
 
-avatar: 'assets/astro-pup.png'
+avatar: 'assets/retro-comp.png'
 future: true
 
 # Build settings

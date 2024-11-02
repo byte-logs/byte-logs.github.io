@@ -18,9 +18,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #2a7ae2; text-decoration: none; }
+a         { color: #F3832A; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #205caa; }
+a:visited { color: #e16f11  ; }
 
 /* Utility */
 
@@ -53,14 +53,14 @@ a:visited { color: #205caa; }
   font-size: 26px;
   letter-spacing: -1px;
   float: left;
-  line-height: 56px;
+  line-height: 80px;
   position: relative;
   z-index: 1;
 }
 
 .site-nav {
   float: right;
-  line-height: 56px;
+  line-height: 80px;
 }
 
 .site-nav .menu-icon { display: none; }
@@ -421,4 +421,8 @@ a:visited { color: #205caa; }
     width: auto;
     margin: 0 0 15px; }
 
+}
+
+b {
+  font-weight: 600;
 }
