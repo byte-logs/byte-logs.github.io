@@ -1,0 +1,91 @@
+---
+layout: post
+comments: true
+title:  "A beginner's journey Into the world of code."
+excerpt: "how I fell in love with programming."
+date:   2024-09-12 17:55:00
+mathjax: true
+---
+
+<!-- 
+<svg width="800" height="200">
+	<rect width="800" height="200" style="fill:rgb(98,51,20)" />
+	<rect width="20" height="50" x="20" y="100" style="fill:rgb(189,106,53)" />
+	<rect width="20" height="50" x="760" y="30" style="fill:rgb(77,175,75)" />
+	<rect width="10" height="10" x="400" y="60" style="fill:rgb(225,229,224)" />
+</svg>
+ -->
+
+<b>Note: This is a clone of my [post](https://codus.hashnode.dev/a-beginners-journey-into-the-world-of-code) from Hashnode</b>
+
+Hello there!
+
+I am Mark Madhukar. I am 21 years old.
+
+This is my journey into the world of programming.
+
+### Early Days
+
+My coding journey began 5 years ago when I was first introduced to HTML at 8th grade. I had no clue then that it wasn't even a programming language.
+
+All I knew was that I could type in some cryptic lines of text into an editor and make computer browsers display cool stuff. HTML and CSS felt like the ultimate superpower that I'd been lacking all these years.
+
+Finally!! something that I was good at and loved doing!!
+
+I began watching tutorials on YouTube and started making one webpage after another. They weren't worth a penny each, but they taught me lot, considering that until then the only experience I had with computers was playing [Pinball](https://en.wikipedia.org/wiki/Full_Tilt!_Pinball) on my father's Windows XP machine.
+
+### Discovery of Python
+
+You would think that the natural thing to learn next is JavaScript, but I had just come across a book about Python, and I was immediately hooked.
+
+First of all Python was way more powerful than anything HTML could do, and more importantly the output of the average python script is displayed in command line interfaces, so I kind of felt like a hacker from the movies while I wrote scripts and ran them in the classic *green text on black screen* terminal.
+
+Python was a paradigm shift for me, especially since I was getting bored of building static HTML pages that didn't really do much.
+
+I started with simple calculator programs, then gradually moved on to more complex stuff.
+
+### Highs and Lows
+
+learning python was actually a pretty bumpy ride. I would see some code online or watch a tutorial on YouTube, and try to replicate it, but I would never understand what every single line of the code meant, and that would frustrate me.
+
+Suddenly every thing would seem overwhelming and I'd quit learning new stuff and work on things that I understood.
+
+I would build more complex programs with concepts that I understood fairly well, or just give up programming altogether for a while, and when this got boring i would go back to the code or tutorial that I had run away from, and everything would start to make sense.
+
+I don't know how this works, but it seems to work this way every time for me.
+
+### The First Assignment
+
+I had been learning to code on and off for nearly two years, when my dad realized I could build fairly complicated programs, and saw the potential for making something useful.
+
+My dad trades in the stock market, so he wanted a piece of software that took in daily price data of stocks using an API and run some statistical analysis on it.
+
+This project changed how I wrote code and structured my projects for the better (I think).
+
+I have worked on many projects since then, both for my father and myself, all of which has led me to where I am now.
+
+# Lessons Learnt
+
+I have a long way to go, but I have learnt a few things that have helped me come this far.
+
+Here are a few things that I've learned, that have helped me become a better programmer:
+
+1. <b>Never jump into code before coming up with a structured plan of executing your project.</b> I know it's boring and takes a lot of time initially, but putting your plan on paper gives you a lot of clarity. (here's an excellent [article](https://www.henrikkarlsson.xyz/p/writing-to-think) on that)
+<br><br>
+2. <b>Never think that you have fixed all the bugs in your code.</b> As Lubarsky rightly said: <b><i>"There Is always one more bug"</i></b>. Such a simple statement, yet axiomatic.
+<br><br>
+3. <b>Always document whatever you do</b>, no matter how insignificant you think it may be, and host them on a platform like Github to keep them accessible and safe. Doing so will also teach you how to use Git which is a skill that will be very useful for you.
+<br><br>
+4. <b>Learn to use the debugger tool</b> in whatever IDE you prefer to use. This is by far the most underrated skill to have, and saves you a lot of time and helps maintain your sanity.
+<br><br>
+I know this is a motley selection of advice, but these are the things that stand out to me the most.
+
+### The Journey Continues
+
+As I previously stated, I still have a very long journey ahead, and I have lot more to learn.
+
+I look forward to sharing what I learn in this blog.
+
+You can also follow me on [Github](https://www.github.com/programmer2215/), to check out projects I'm working on.
+
+Until we meet again!
