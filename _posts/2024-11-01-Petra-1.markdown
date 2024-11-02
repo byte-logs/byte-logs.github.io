@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title:  "Building a compiler from scratch."
-excerpt: "figuring out what goes on uder the hood of a compiler and making one in the process."
+title:  "Learning to build a compiler from scratch."
+excerpt: "figuring out what goes on under the hood of a compiler and building one in the process."
 date:   2024-11-01 14:30:00
 mathjax: true
 ---
@@ -16,6 +16,37 @@ mathjax: true
 </svg>
  -->
 
+    
+
 This post marks the beginning of a new pet project that I have been planning for the longest time.
 
-Compilers have always fascinated me. They were always this black box software that seemed to know how to convert all my code into code that my machine could read.
+Compilers have always fascinated me, and I've been wanting to learn more about them for a very long time, and what better time to do that than now.  
+
+My aim with this series of blog posts is to document everything I read, watch, or do regarding compiler design.
+
+I do not know how frequently I will be posting here, as I have very little time during the week to spend on this project, but I do not plan to stop working on It until I feel like I have understood what exactly happens under the hood of a compiler.
+
+### References
+
+I did some basic research on what one might do to get started with building a compiler and here are some resources that I thought would help:
+
+- [Writing a C compiler](https://norasandler.com/2017/11/29/Write-a-Compiler.html) - Blog Series by Nora Sandler
+- [Creating a Compiler](https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs) - Youtube Playlist by Pixeled. 
+- [How to make a Compiler](https://www.reddit.com/r/ProgrammingLanguages/comments/1475h9o/how_to_make_a_compiler/?rdt=44064) - Reddit Thread on r/ProgrammingLanguages
+
+Nora Sandler's blog series seems to be a great place to start, as it was recommended by a colleague of mine.
+### Naming the Project
+
+I know it seems foolish to be thinking about naming something even before I start to work on it, but I think doing so Is exciting and motivates me for some reason.
+
+I searched a lot for name Ideas, and finally settled on <b><i>Petra</i></b>.
+
+Petra means Stone or Rock in Greek, but honestly speaking i just chose the name because It sounded cool, also happens to be the name of a character from [Brawlhalla](www.brawlhalla.com) (a game I played growing up).
+
+### My plan for this blog (or the lack of one...)
+
+I guess the first few posts would be on how compilers work in general. Then i would slowly start implementing one when I find a good architecture to build my programming language on.
+
+I don't expect this blog to be the Holy Grail of compiler design and neither should you. It merely exists to document everything that I learn.
+
+Let's see where this goes! See you soon!
